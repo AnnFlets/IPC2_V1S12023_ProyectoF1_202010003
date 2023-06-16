@@ -38,4 +38,16 @@
 			</pelicula>
 		</peliculas>
 	</categoria>
+	<categoria>
+		<nombre>Tragedia</nombre>
+		<peliculas>
+			<pelicula>
+				<titulo>El libro rojo</titulo>
+				<director>Leah B.</director>
+				<anio>2020</anio>
+				<fecha>2023-06-17</fecha>
+				<hora>18:00</hora>
+			</pelicula>
+		</peliculas>
+	</categoria>
 </categorias>

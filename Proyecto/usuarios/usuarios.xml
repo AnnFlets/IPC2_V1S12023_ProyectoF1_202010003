@@ -2,19 +2,19 @@
 <usuarios>
 	<usuario>
 		<rol>cliente</rol>
+		<nombre>Karina</nombre>
+		<apellido>Green</apellido>
+		<telefono>41528596</telefono>
+		<correo>karinagreen@yahoo.com</correo>
+		<contrasena>karina125</contrasena>
+	</usuario>
+	<usuario>
+		<rol>cliente</rol>
 		<nombre>Ana</nombre>
 		<apellido>Fletes</apellido>
 		<telefono>54200147</telefono>
 		<correo>analucia@gmail.com</correo>
 		<contrasena>ana123</contrasena>
-	</usuario>
-	<usuario>
-		<rol>cliente</rol>
-		<nombre>Alfonso</nombre>
-		<apellido>Chang</apellido>
-		<telefono>47859645</telefono>
-		<correo>alfon14@gmail.com</correo>
-		<contrasena>alfon368</contrasena>
 	</usuario>
 	<usuario>
 		<rol>cliente</rol>
@@ -55,5 +55,13 @@
 		<telefono>12563859</telefono>
 		<correo>luis.son@example.com</correo>
 		<contrasena>jbnfdrig12!</contrasena>
+	</usuario>
+	<usuario>
+		<rol>administrador</rol>
+		<nombre>Andrew</nombre>
+		<apellido>White</apellido>
+		<telefono>14785458</telefono>
+		<correo>andreww@hotmail.com</correo>
+		<contrasena>passwordxd</contrasena>
 	</usuario>
 </usuarios>

@@ -78,7 +78,7 @@ class ListaFacturas:
             for boleto in boletos:
                 if boleto.get_estado() == estado:
                     boleto.imprimir()
-                boletos_encontrados = boletos_encontrados + 1
+                    boletos_encontrados = boletos_encontrados + 1
             actual = actual.get_siguiente()
         if boletos_encontrados == 0:
             return False
